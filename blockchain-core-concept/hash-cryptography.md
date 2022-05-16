@@ -20,3 +20,11 @@ Use cases of SHA-256:
 - Blockchain
 - Bitcoin
 - SSL (Secure Sockets Layer) Certificates
+
+Notes:
+
+Online SHA-256 Generator [click here](https://www.freeformatter.com/sha256-generator.html)
+
+Read more:
+
+Breaking Down : SHA-256 Algorithm [click here](https://infosecwriteups.com/breaking-down-sha-256-algorithm-2ce61d86f7a3)
