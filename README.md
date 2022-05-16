@@ -1,3 +1,7 @@
-# blockchain-notes
+# Blockchain Notes
 
-[Click here to start reading](./index.md)
+## Table of Contents
+
+### [Core Concepts of Blockchain](./blockchain-core-concept/index.md)
+
+### [Ethereum](./Ethereum/)
