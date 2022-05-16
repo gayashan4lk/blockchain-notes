@@ -1,6 +1,6 @@
 ## How Blocks are linked together
 
-[![blockchain is a chain of blocks](/assets//img/blocks-in-a-blockchain.png)]
+[image - blockchain is a chain of blocks](/assets//img/blocks-in-a-blockchain.png)
 
 First block of a blockchain is called "Genesis Block". Genesis block is not linked to anything because it's the first one in the blockchain. The block number of the genesis block is "0". Hence it can be called "Block 0". There is no previous hash for block 0. But block 0 has it's own hash. That hash is calculated using the data on block 0.
 

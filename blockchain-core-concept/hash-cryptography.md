@@ -5,7 +5,7 @@ Hash function accepts any length of data as an input and outputs fixed length da
 A Hash is a one-way mathematical function that is easy to calculate and very hard (nearly impossible) to reverse. It maps an input to an output.
 While the calculation of the hash of a string with a cryptographic hash function is very fast, the reverse calculation is very complex and massively time-consuming.
 
-[![hash function](/assets//img//hash-function.png)]
+[image - hash function](/assets//img//hash-function.png)
 
 SHA-256 is a hash function. It is considered as one of the most secured hashing algorithms. Three properties make SHA-256 this secure.
 
